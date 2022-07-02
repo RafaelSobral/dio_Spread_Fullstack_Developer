@@ -7,7 +7,7 @@ https://git-scm.com/downloads
 git clone (clonar repositório)
 git status (verifica o status do repositório local, se houve alguma alteração)
 git add . (adiciona na branch local as alterações)
-git commit -m (Inclusão das alterações do repositório local para o web cloud)
+git commit -m "Mensagem de Inclusão" (Inclusão das alterações do repositório local para o web cloud)
 git push origin main (Envia a branch local para a branch web cloud)
 
 ===============================================================
